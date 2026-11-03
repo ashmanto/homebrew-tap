@@ -1,6 +1,6 @@
 cask "sandtable" do
-  version "1.0.1"
-  sha256 "6a938bef6fbf610d9c9f05497811aaea7bd2a2e11a354945e5d24a66b55da295"
+  version "1.1.0"
+  sha256 "1a6ea16423edc6d03053f441151cd13af796a063ddaaf594527d7f2962e197f5"
 
   url "https://github.com/ashmanto/sandtable/releases/download/v#{version}/Sandtable-#{version}-arm64.dmg"
   name "Sandtable"
